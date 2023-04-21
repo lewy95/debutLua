@@ -1,0 +1,2 @@
+# debutLua
+lua study notes
